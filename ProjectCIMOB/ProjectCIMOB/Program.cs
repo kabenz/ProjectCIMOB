@@ -10,6 +10,7 @@ using Microsoft.Extensions.Logging;
 
 namespace ProjectCIMOB
 {
+    //Comentário teste
     public class Program
     {
         //Comentario Sebass
